@@ -21,30 +21,28 @@
 
 <div align="center">
   
-  ## 🌸 About Me
-  
-  <table>
-    <tr>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300">
-      </td>
-      <td>
-        
-      
-**📧 Reach me:** [Jaseela1414@gmail.com](mailto:Jaseela1414@gmail.com)
-
-**📄 Resume:** [View My Resume](https://drive.google.com/file/d/1K26E9HOVCzEeQPmWOPSxc42bJjOmtb6t/view?usp=sharing)
-      
-    </td>
-  </tr>
-</table>
-
+ <!-- About Me Section -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 <br/>
 
-<!-- Connect Section -->
 <div align="center">
+  
+  ## 💫 About Me
+  
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2px; border-radius: 15px; margin: 20px 0;">
+    <div style="background: #0D1117; padding: 30px; border-radius: 13px;">
+      
+      <table style="border: none; width: 100%;">
+        <tr>
+          <td width="50%" align="center">
+            <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Coding Animation">
+          </td>
+          <td width="50%" style="padding-left: 30px;">
+            
+  <div align="left">
 
 ## 🌐 Let's Connect
 
