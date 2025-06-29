@@ -5,10 +5,10 @@
 <div align="center" style="font-family: 'Poppins', sans-serif;">
   
   <!-- Profile Views with Custom Styling -->
-  <img src="https://komarev.com/ghpvc/?username=jasln1414&label=Profile%20Views&color=ff69b4&style=for-the-badge&labelColor=2d1b69" alt="Profile Views" />
-  
-  <!-- Animated Typing Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=E91E63&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Cloud+%26+DevOps+Explorer+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Django+%7C+Python;Always+learning+new+things" alt="Typing SVG" />
+<br>
+<img src="https://komarev.com/ghpvc/?username=jasln1414&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+
 
 </div>
 
