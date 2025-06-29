@@ -105,18 +105,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasln1414&theme=black-ice&hide_border=true&stroke=ff69b4&ring=ff69b4&fire=ff1493&currStreakLabel=ff69b4&background=0d1117" />
 </div>
 
-<!-- Trophies -->
-<br>
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-90e5dca88fde.png" width="25">
-  GitHub Trophies
-  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-90e5dca88fde.png" width="25">
-</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jasln1414&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&title_color=ff69b4&icon_color=ff1493" />
-</div>
-
 
 
 <!-- Quote -->
