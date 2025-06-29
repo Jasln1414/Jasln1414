@@ -1,66 +1,176 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=Jaseela%20Noushad&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Crafting%20Digital%20Experiences&descAlignY=51&descAlign=62)
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=280&section=header&text=&fontSize=0&animation=twinkling&fontAlignY=35&desc=&descAlignY=51&descAlign=62" />
 
-<!-- Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Welcome+to+my+Digital+Garden+🌸;Full+Stack+Developer+with+a+passion+for+clean+code;React+%7C+Django+%7C+Python+%7C+Cloud+Technologies;Building+tomorrow's+web+today+✨)](https://git.io/typing-svg)
+<!-- Profile Banner -->
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" height="300" />
 
-<!-- Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=jasln1414&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/jasln1414?label=Followers&style=for-the-badge&color=ff1493" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-ff69b4?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Location-Building%20the%20Future-ff1493?style=for-the-badge" alt="Location" />
+<!-- Name Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&height=70&lines=Jaseela+Noushad;Full+Stack+Developer;Digital+Craftsperson" alt="Typing SVG" />
+</h1>
+
+<!-- Animated Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/PRO-Full%20Stack%20Developer-ff69b4?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=ff1493" />
+  <img src="https://komarev.com/ghpvc/?username=jasln1414&style=for-the-badge&color=ff69b4&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/badge/FOCUS-Web%20Development-ff1493?style=for-the-badge&labelColor=ff69b4" />
 </p>
 
-<!-- Social Links with Hover Effects -->
-<p>
-  <a href="https://www.linkedin.com/in/jaseela-noushad-161a332b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=ff1493" />
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaseela-noushad-161a332b4/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-ff69b4?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=ff1493" />
   </a>
-  <a href="mailto:Jaseela1414@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-ff1493?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff69b4" />
+  <a href="mailto:Jaseela1414@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-ff1493?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=ff69b4" />
   </a>
-  <a href="https://drive.google.com/file/d/1K26E9HOVCzEeQPmWOPSxc42bJjOmtb6t/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-Download-ff69b4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=ff1493" />
+  <a href="https://drive.google.com/file/d/1K26E9HOVCzEeQPmWOPSxc42bJjOmtb6t/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/-Resume-ff69b4?style=for-the-badge&logo=Adobe&logoColor=white&labelColor=ff1493" />
   </a>
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" />
+
+</div>
+
+<!-- About Me Section -->
+<br>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h2 align="center">✨ About Me</h2>
+        <br>
+        <p align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
+        </p>
+        <p align="center">
+          🌸 Passionate Full Stack Developer<br>
+          💫 Crafting elegant digital solutions<br>
+          🎯 Specialized in React & Django<br>
+          ✨ Building tomorrow's web today<br>
+          🚀 Always exploring new technologies
+        </p>
+      </td>
+      <td width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Skills Section -->
+<br>
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+  Tech Arsenal
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+</h2>
+
+<div align="center">
+  
+### 💖 Frontend Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,tailwind,sass,materialui,figma&theme=light&perline=10" />
+</p>
+
+### 🌺 Backend Technologies  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,java,spring&theme=light&perline=10" />
+</p>
+
+### 🌸 Database & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,docker,kubernetes,nginx&theme=light&perline=10" />
+</p>
+
+### 🎀 Tools & Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,bash&theme=light&perline=10" />
 </p>
 
 </div>
 
-<!-- About Section with Gradient -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<!-- GitHub Stats -->
+<br>
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
-  About Me 
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-left: 10px;">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
+  GitHub Analytics
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
 </h2>
 
 <div align="center">
-  <img align="right" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coding gif" />
-  
-  <div align="left">
-  
-  ```python
-  class FullStackDeveloper:
-      def __init__(self):
-          self.name = "Jaseela Noushad"
-          self.role = "Full Stack Developer"
-          self.location = "Building Digital Dreams ☁️"
-          self.email = "Jaseela1414@gmail.com"
-          
-      def current_focus(self):
-          return [
-              "🌸 Building scalable web applications",
-              "💖 Creating beautiful user experiences",
-              "✨ Learning cloud architecture patterns",
-              "🎯 Contributing to open source"
-          ]
-          
-      def say_hi(self):
-          print("Thanks for dropping by! Let's build something amazing together 🚀")
-  
-  me = FullStackDeveloper()
-  me.say_hi()
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jasln1414&show_icons=true&count_private=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9&bg_color=0d1117" alt="Jaseela Noushad github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasln1414&layout=compact&hide_border=true&title_color=ff69b4&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasln1414&theme=black-ice&hide_border=true&stroke=ff69b4&ring=ff69b4&fire=ff1493&currStreakLabel=ff69b4&background=0d1117" />
+</div>
+
+<!-- Activity Graph -->
+<br>
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="25">
+  Contribution Graph
+  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="25">
+</h2>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jasln1414&custom_title=Jaseela's%20Activity%20Graph&bg_color=0d1117&color=ff69b4&line=ff1493&point=ff69b4&area=true&hide_border=true" />
+
+<!-- Trophies -->
+<br>
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-90e5dca88fde.png" width="25">
+  GitHub Trophies
+  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-90e5dca88fde.png" width="25">
+</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jasln1414&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&title_color=ff69b4&icon_color=ff1493" />
+</div>
+
+<!-- Current Work -->
+<br>
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25">
+  Currently Working On
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25">
+</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+        <h4>🌸 E-Commerce Platform</h4>
+        <p>React + Django REST</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+        <h4>💫 Real-time Chat App</h4>
+        <p>WebSocket + Redis</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+        <h4>✨ AI-Powered Tool</h4>
+        <p>Python + TensorFlow</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Quote -->
+<br>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" />
+</div>
+
+<!-- Footer -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" />
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1
