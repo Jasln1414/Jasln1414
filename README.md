@@ -105,16 +105,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasln1414&theme=black-ice&hide_border=true&stroke=ff69b4&ring=ff69b4&fire=ff1493&currStreakLabel=ff69b4&background=0d1117" />
 </div>
 
-<!-- Activity Graph -->
-<br>
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="25">
-  Contribution Graph
-  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="25">
-</h2>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jasln1414&custom_title=Jaseela's%20Activity%20Graph&bg_color=0d1117&color=ff69b4&line=ff1493&point=ff69b4&area=true&hide_border=true" />
-
 <!-- Trophies -->
 <br>
 <h2 align="center">
@@ -127,35 +117,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=jasln1414&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&title_color=ff69b4&icon_color=ff1493" />
 </div>
 
-<!-- Current Work -->
-<br>
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25">
-  Currently Working On
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25">
-</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-        <h4>🌸 E-Commerce Platform</h4>
-        <p>React + Django REST</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-        <h4>💫 Real-time Chat App</h4>
-        <p>WebSocket + Redis</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-        <h4>✨ AI-Powered Tool</h4>
-        <p>Python + TensorFlow</p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <!-- Quote -->
 <br>
