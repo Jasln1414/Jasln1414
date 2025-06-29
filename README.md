@@ -1,135 +1,93 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20👋%20I'm%20Jaseela%20Noushad&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Passionate%20Fullstack%20Developer&descAlignY=55&descSize=18" width="100%"/>
-</div>
 
-<div align="center" style="font-family: 'Poppins', sans-serif;">
-  
-  <!-- Profile Views with Custom Styling -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Django+%7C+Python;Always+learning+new+things" alt="Typing SVG" />
-<br>
-<img src="https://komarev.com/ghpvc/?username=jasln1414&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+# 🌸 Jaseela Noushad
+### 💫 Fullstack Developer | Building seamless digital experiences
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Django+%7C+Python;Crafting+code+with+care+%F0%9F%92%96;Always+learning+something+new)
 
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=jasln1414&label=Profile%20views&color=ff69b4&style=flat-square)
 
-<br/>
-
-<!-- About Me Section -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-<div align="center">
-  
- <!-- About Me Section -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-<br/>
-
-<div align="center">
-  
-  ## 💫 About Me
-  
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2px; border-radius: 15px; margin: 20px 0;">
-    <div style="background: #0D1117; padding: 30px; border-radius: 13px;">
-      
-      <table style="border: none; width: 100%;">
-        <tr>
-          <td width="50%" align="center">
-            <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Coding Animation">
-          </td>
-          <td width="50%" style="padding-left: 30px;">
-            
-  <div align="left">
-
-## 🌐 Let's Connect
-
-<a href="https://www.linkedin.com/in/jaseela-noushad-161a332b4/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-</a>
-<a href="mailto:Jaseela1414@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
-</a>
+![Pink Divider](https://capsule-render.vercel.app/api?type=waving&height=100&color=FF69B4&section=header)
 
 </div>
 
-<br/>
+---
 
-<!-- Tech Stack Section -->
+## 🌷 About Me
+
+- 🌟 **Name:** Jaseela Noushad  
+- 💼 **Role:** Passionate Fullstack Developer  
+- 📧 **Email:** [Jaseela1414@gmail.com](mailto:Jaseela1414@gmail.com)  
+- 📝 **Resume:** [View Resume](https://drive.google.com/file/d/1K26E9HOVCzEeQPmWOPSxc42bJjOmtb6t/view?usp=sharing)
+
+---
+
+## 🌐 Connect With Me
 <div align="center">
-
-## 💻 Tech Stack
-
-### Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,figma" />
-
-### Backend Development  
-<img src="https://skillicons.dev/icons?i=python,django,java,c" />
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MSSQL"/>
-
-### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
-
-### Mobile Development
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-
+  <a href="https://www.linkedin.com/in/jaseela-noushad-161a332b4/">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Jaseela1414@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
-<br/>
+---
 
-<!-- GitHub Stats Section -->
-<div align="center">
+## 🛠️ Tech Stack
 
-## 📊 GitHub Analytics
+### 💻 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,c,react,redux,html,css,tailwind,django&theme=light" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jasln1414&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" />
+</p>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jasln1414&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
+### ☁️ DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=light" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasln1414&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+### 🎨 Design Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma&theme=light" />
+</p>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasln1414&theme=radical" alt="Profile Summary"/>
-
-</div>
-
-<br/>
-
-<!-- GitHub Trophies -->
-<div align="center">
+---
 
 ## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=jasln1414&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jasln1414&theme=dracula&row=1&column=7&margin-w=8" />
 </div>
 
-<br/>
+---
 
-<!-- Activity Graph -->
+## 📈 GitHub Stats
 <div align="center">
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jasln1414&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=jasln1414&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF1493&text_color=ffffff&bg_color=0D1117&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasln1414&theme=radical&stroke=FF69B4&ring=FF1493&currStreakLabel=FF69B4&fire=FF69B4&hide_border=true&background=0D1117" width="48%" />
 </div>
 
-<br/>
-
-<!-- Footer -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jasln1414&layout=compact&theme=radical&title_color=FF69B4&text_color=ffffff&bg_color=0D1117&hide_border=true" width="50%" />
+</div>
 
-<h3 style="font-family: 'Poppins', sans-serif; color: #F85D7F;">
-  ✨ "Code is like humor. When you have to explain it, it's bad." ✨
-</h3>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="200">
+## 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jasln1414&bg_color=0D1117&color=FF69B4&line=FF1493&point=FFFFFF&area=true&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+
+### 💖 Thank you for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
 
 </div>
