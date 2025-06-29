@@ -1,11 +1,5 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=280&section=header&text=&fontSize=0&animation=twinkling&fontAlignY=35&desc=&descAlignY=51&descAlign=62" />
-
-<!-- Profile Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" height="300" />
-
 <!-- Name Animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&height=70&lines=Jaseela+Noushad;Full+Stack+Developer;Digital+Craftsperson" alt="Typing SVG" />
