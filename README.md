@@ -4,7 +4,7 @@
 ### ✨ A passionate Fullstack Developer crafting digital magic ✨
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Django+%7C+Python;Always+learning+new+things" alt="Typing SVG" />
-
+<br>
 <img src="https://komarev.com/ghpvc/?username=jasln1414&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile views" />
 
 </div>
