@@ -1,93 +1,66 @@
 <div align="center">
 
-# 🌸 Jaseela Noushad
-### 💫 Fullstack Developer | Building seamless digital experiences
+<!-- Animated Wave Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=Jaseela%20Noushad&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Crafting%20Digital%20Experiences&descAlignY=51&descAlign=62)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Django+%7C+Python;Crafting+code+with+care+%F0%9F%92%96;Always+learning+something+new)
+<!-- Animated Typing -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Welcome+to+my+Digital+Garden+🌸;Full+Stack+Developer+with+a+passion+for+clean+code;React+%7C+Django+%7C+Python+%7C+Cloud+Technologies;Building+tomorrow's+web+today+✨)](https://git.io/typing-svg)
 
-![Profile views](https://komarev.com/ghpvc/?username=jasln1414&label=Profile%20views&color=ff69b4&style=flat-square)
+<!-- Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=jasln1414&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/jasln1414?label=Followers&style=for-the-badge&color=ff1493" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-ff69b4?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-Building%20the%20Future-ff1493?style=for-the-badge" alt="Location" />
+</p>
 
-![Pink Divider](https://capsule-render.vercel.app/api?type=waving&height=100&color=FF69B4&section=header)
-
-</div>
-
----
-
-## 🌷 About Me
-
-- 🌟 **Name:** Jaseela Noushad  
-- 💼 **Role:** Passionate Fullstack Developer  
-- 📧 **Email:** [Jaseela1414@gmail.com](mailto:Jaseela1414@gmail.com)  
-- 📝 **Resume:** [View Resume](https://drive.google.com/file/d/1K26E9HOVCzEeQPmWOPSxc42bJjOmtb6t/view?usp=sharing)
-
----
-
-## 🌐 Connect With Me
-<div align="center">
+<!-- Social Links with Hover Effects -->
+<p>
   <a href="https://www.linkedin.com/in/jaseela-noushad-161a332b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=ff1493" />
   </a>
   <a href="mailto:Jaseela1414@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-ff1493?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff69b4" />
   </a>
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,c,react,redux,html,css,tailwind,django&theme=light" />
+  <a href="https://drive.google.com/file/d/1K26E9HOVCzEeQPmWOPSxc42bJjOmtb6t/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-Download-ff69b4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=ff1493" />
+  </a>
 </p>
 
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" />
-</p>
-
-### ☁️ DevOps & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=light" />
-</p>
-
-### 🎨 Design Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma&theme=light" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jasln1414&theme=dracula&row=1&column=7&margin-w=8" />
 </div>
 
----
+<!-- About Section with Gradient -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasln1414&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF1493&text_color=ffffff&bg_color=0D1117&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasln1414&theme=radical&stroke=FF69B4&ring=FF1493&currStreakLabel=FF69B4&fire=FF69B4&hide_border=true&background=0D1117" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jasln1414&layout=compact&theme=radical&title_color=FF69B4&text_color=ffffff&bg_color=0D1117&hide_border=true" width="50%" />
-</div>
-
----
-
-## 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jasln1414&bg_color=0D1117&color=FF69B4&line=FF1493&point=FFFFFF&area=true&hide_border=true" />
-</div>
-
----
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+  About Me 
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-left: 10px;">
+</h2>
 
 <div align="center">
-
-### 💖 Thank you for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
-
-</div>
+  <img align="right" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coding gif" />
+  
+  <div align="left">
+  
+  ```python
+  class FullStackDeveloper:
+      def __init__(self):
+          self.name = "Jaseela Noushad"
+          self.role = "Full Stack Developer"
+          self.location = "Building Digital Dreams ☁️"
+          self.email = "Jaseela1414@gmail.com"
+          
+      def current_focus(self):
+          return [
+              "🌸 Building scalable web applications",
+              "💖 Creating beautiful user experiences",
+              "✨ Learning cloud architecture patterns",
+              "🎯 Contributing to open source"
+          ]
+          
+      def say_hi(self):
+          print("Thanks for dropping by! Let's build something amazing together 🚀")
+  
+  me = FullStackDeveloper()
+  me.say_hi()
