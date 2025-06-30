@@ -73,7 +73,7 @@
 
 ### 🌺 Backend Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django spring&theme=light&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,django&theme=light&perline=10" />
 </p>
 
 ### 🌸 Database & Cloud
