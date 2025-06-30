@@ -36,7 +36,7 @@
   <table>
     <tr>
       <td width="50%">
-        <h2 align="center" margin="auto">✨ About Me</h2>
+        <h2 align="center" margin="auto" padding="auto" font-family="poppins">✨ About Me</h2>
         <br>
         <p align="center">
           <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
