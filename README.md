@@ -2,7 +2,7 @@
 
 <!-- Name Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&height=70&lines=Jaseela+Noushad;Full+Stack+Developer;Digital+Craftsperson" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&height=70&lines=Jaseela+Noushad;Full+Stack+Developer;" alt="Typing SVG" />
 </h1>
 
 <!-- Animated Badges -->
@@ -41,7 +41,7 @@
         <p align="center">
           <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
         </p>
-        <p align="center">
+        <p align="left">
           🌸 Passionate Full Stack Developer<br>
           💫 Crafting elegant digital solutions<br>
           🎯 Specialized in React & Django<br>
@@ -68,22 +68,22 @@
   
 ### 💖 Frontend Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,tailwind,sass,materialui,figma&theme=light&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,tailwind,figma&theme=light&perline=10" />
 </p>
 
 ### 🌺 Backend Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,java,spring&theme=light&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,django spring&theme=light&perline=10" />
 </p>
 
 ### 🌸 Database & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,docker,kubernetes,nginx&theme=light&perline=10" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,aws,docker,kubernetes&theme=light&perline=10" />
 </p>
 
 ### 🎀 Tools & Others
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,bash&theme=light&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=light&perline=10" />
 </p>
 
 </div>
