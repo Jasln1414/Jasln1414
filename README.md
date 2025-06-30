@@ -2,7 +2,7 @@
 
 <!-- Name Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&height=70&lines=Jaseela+Noushad;Full+Stack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=45&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&height=70&lines=Jaseela+Noushad;Full+Stack+Developer;" alt="Typing SVG" />
 </h1>
 
 <!-- Animated Badges -->
