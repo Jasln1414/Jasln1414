@@ -36,7 +36,7 @@
   <table>
     <tr>
       <td width="50%">
-        <h2 align="center" margin="auto" padding="auto" font-family="poppins">✨ About Me</h2>
+        <h2 align="center">About Me</h2>
         <br>
         <p align="center">
           <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
@@ -66,22 +66,22 @@
 
 <div align="center">
   
-### 💖 Frontend Technologies
+### Frontend Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,tailwind,figma&theme=light&perline=10" />
 </p>
 
-### 🌺 Backend Technologies  
+### Backend Technologies  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django&theme=light&perline=10" />
 </p>
 
-### 🌸 Database & Cloud
+### Database & Cloud
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,aws,docker,kubernetes&theme=light&perline=10" />
 </p>
 
-### 🎀 Tools & Others
+### Tools & Others
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=light&perline=10" />
 </p>
