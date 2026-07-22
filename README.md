@@ -96,13 +96,17 @@ I'm open to collaborating on innovative projects or discussing career opportunit
 
 - **LinkedIn**: [Jaseela Noushad](https://www.linkedin.com/in/jaseela-noushad-161a332b4/)
 - **Email**: [Jaseela1414@gmail.com](mailto:Jaseela1414@gmail.com)
+
+
 ### 💻 LeetCode Progress
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Jaseela14141414?theme=light&font=Inter&ext=activity)](https://leetcode.com/Jaseela1414)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/jaseela1414?theme=light&font=Inter&ext=activity)](https://leetcode.com/jaseela1414)
 
 </div>
+
+
 
 ---
 
