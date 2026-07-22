@@ -45,22 +45,29 @@ I am a dedicated Full Stack Developer passionate about creating innovative, user
 
 ### Frontend Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,tailwind,figma&theme=light&perline=8" class="skill-icon" />
+  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,tailwind,bootstrap,jquery&theme=light&perline=8" class="skill-icon" />
 </p>
 
 ### Backend Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django&theme=light&perline=8" class="skill-icon" />
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express&theme=light&perline=8" class="skill-icon" />
 </p>
 
 ### Database & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,aws,docker,kubernetes&theme=light&perline=8" class="skill-icon" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,aws,docker,kubernetes&theme=light&perline=8" class="skill-icon" />
 </p>
 
 ### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=light&perline=8" class="skill-icon" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,figma&theme=light&perline=8" class="skill-icon" />
+</p>
+
+### Additional Technologies
+<p align="center">
+  <span style="display: inline-block; background: #f0f0f0; padding: 10px 20px; border-radius: 8px; margin: 5px; font-weight: 500; color: #333;">SQL</span>
+  <span style="display: inline-block; background: #f0f0f0; padding: 10px 20px; border-radius: 8px; margin: 5px; font-weight: 500; color: #333;">ORM</span>
+  <span style="display: inline-block; background: #f0f0f0; padding: 10px 20px; border-radius: 8px; margin: 5px; font-weight: 500; color: #333;">REST APIs</span>
 </p>
 
 <!-- Animated Divider -->
@@ -85,7 +92,7 @@ I am a dedicated Full Stack Developer passionate about creating innovative, user
 
 ## Contact
 
-I’m open to collaborating on innovative projects or discussing career opportunities. Connect with me via:
+I'm open to collaborating on innovative projects or discussing career opportunities. Connect with me via:
 
 - **LinkedIn**: [Jaseela Noushad](https://www.linkedin.com/in/jaseela-noushad-161a332b4/)
 - **Email**: [Jaseela1414@gmail.com](mailto:Jaseela1414@gmail.com)
