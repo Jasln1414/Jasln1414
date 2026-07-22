@@ -96,6 +96,7 @@ I'm open to collaborating on innovative projects or discussing career opportunit
 
 - **LinkedIn**: [Jaseela Noushad](https://www.linkedin.com/in/jaseela-noushad-161a332b4/)
 - **Email**: [Jaseela1414@gmail.com](mailto:Jaseela1414@gmail.com)
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=jasln1414)](https://git.io/streak-stats)
 
 ---
 
