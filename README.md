@@ -45,17 +45,17 @@ I am a dedicated Full Stack Developer passionate about creating innovative, user
 
 ### Frontend Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,tailwind,bootstrap,jquery&theme=light&perline=8" class="skill-icon" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,jquery&theme=light&perline=8" class="skill-icon" />
 </p>
 
 ### Backend Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express&theme=light&perline=8" class="skill-icon" />
+  <img src="https://skillicons.dev/icons?i=python,django&theme=light&perline=8" class="skill-icon" />
 </p>
 
 ### Database & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,aws,docker,kubernetes&theme=light&perline=8" class="skill-icon" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,aws,docker&theme=light&perline=8" class="skill-icon" />
 </p>
 
 ### Tools & Platforms
