@@ -16,7 +16,9 @@
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-
+<a href="https://github.com/jasln1414/jasln1414/blob/main/Jaseela_Noushad_Resume_FullStack_React_Python.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-View%20Resume-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
 
 </div>
 
@@ -236,6 +238,9 @@ I'm always interested in:
 
 <a href="mailto:Jaseela1414@gmail.com">
   <img src="https://img.shields.io/badge/Email-Jaseela1414%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/jasln1414/jasln1414/blob/main/Jaseela_Noushad_Resume_FullStack_React_Python.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-View%20Resume-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
 
 </div>
